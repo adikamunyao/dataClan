@@ -24,5 +24,5 @@ Provide clear and concise documentation to assist with maintenance and future de
 
 ## Data source 
 [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset).
-[CROHME](https://www.isical.ac.in/~crohme/CROHME_data.html)
+
 
