@@ -23,6 +23,6 @@ Document the technical details of the system, such as the algorithms used for ch
 Provide clear and concise documentation to assist with maintenance and future development of the system.
 
 ## Data source 
-###[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset).
-###[CROHME](https://www.isical.ac.in/~crohme/CROHME_data.html)
+[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset).
+[CROHME](https://www.isical.ac.in/~crohme/CROHME_data.html)
 
