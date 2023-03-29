@@ -22,8 +22,6 @@ Develop user manuals and training materials to help users understand how to use 
 Document the technical details of the system, such as the algorithms used for character recognition and the security measures implemented.
 Provide clear and concise documentation to assist with maintenance and future development of the system.
 
-## Data
-EMNIST
-IAM Handwriting Database
-CROHME 
-RIMES
+## Data source [EMNIST](https://pages.github.com/](https://www.nist.gov/itl/products-and-services/emnist-dataset).
+###[CROHME](https://www.isical.ac.in/~crohme/CROHME_data.html)
+
