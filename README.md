@@ -1,6 +1,6 @@
 # PenPal
+There is a need for a solution to digitize and securely preserve handwritten notes while retaining data input accuracy. As remote work and online learning become more common, there is an increasing demand for a system that can effectively transform handwritten notes into a searchable, storable, and shareable digital version. The manual process of digitizing handwritten notes. However, this process can be time-consuming and error-prone when done manually.
 
-The problem we aim to solve is to provide a solution for digitizing and securely storing handwritten notes, while ensuring the accuracy of data entry. With the increasing need for remote work and distance learning, it is essential to have a system that can easily convert handwritten notes into a digital format that can be easily stored, searched, and shared. However, this process can be time-consuming and error-prone when done manually.
 
 ### Technical Objectives
 Develop a machine learning model that can recognize different styles of handwriting, so that it can accurately convert handwritten notes into digital format.
