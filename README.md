@@ -1,4 +1,4 @@
-## PenPal: providing a solution for digitizing and securely storing handwritten notes
+## PenPal: Providing a solution for digitizing and securely storing handwritten notes
 
 There is a need for a solution to digitize and securely preserve handwritten notes while retaining data input accuracy. As remote work and online learning become more common, there is an increasing demand for a system that can effectively transform handwritten notes into a searchable, storable, and shareable digital version. The manual process of digitizing handwritten notes. However, this process can be time-consuming and error-prone when done manually.
 
