@@ -1,5 +1,7 @@
 # PenPal
 
+![label your data](https://user-images.githubusercontent.com/115970348/230477236-be8edecc-35be-4cb4-bce6-b4bf88192654.png)
+
 The problem we aim to solve is to provide a solution for digitizing and securely storing handwritten notes, while ensuring the accuracy of data entry. With the increasing need for remote work and distance learning, it is essential to have a system that can easily convert handwritten notes into a digital format that can be easily stored, searched, and shared. However, this process can be time-consuming and error-prone when done manually.
 
 ### Technical Objectives
