@@ -6,6 +6,9 @@ Writing things down by hand is an important way of keeping information for the f
 Handwritten text recognition (HTR) is a way to use a computer to read and understand words that are written by hand. To do this, the computer needs to be able to separate the words and read them in the right order. Scientists are always working on new and better ways to do this, like using different combinations of neural networks.
 Recently, a new type of neural network called a \"vision transformer\" has been used to analyze images. They have been really good at recognizing images and have worked just as well as the best neural networks. In this project, the scientists will explore using vision transformers to recognize handwritten text.
 
+
+![penpal](https://user-images.githubusercontent.com/22881701/230894592-40b715c8-c01d-4cfa-94f3-b143226d082e.jpg)
+
 ## Overview
 There is a need for a solution to digitize and securely preserve handwritten notes while retaining data input accuracy. As remote work and online learning become more common, there is an increasing demand for a system that can effectively transform handwritten notes into a searchable, storable, and shareable digital version. The manual process of digitizing handwritten notes. However, this process can be time-consuming and error-prone when done manually.
 
