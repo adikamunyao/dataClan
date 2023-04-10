@@ -27,4 +27,5 @@ There are a few big challenges when it comes to teaching a computer to read hand
 
 > [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset).
 
+![modeel](https://user-images.githubusercontent.com/22881701/230956464-4e0cff6e-6c4c-42be-8386-064f5a8af79f.png)
 
