@@ -1,4 +1,4 @@
-## PenPal: Providing a solution for digitizing and securely storing handwritten notes
+# PenPal: Providing a solution for digitizing and securely storing handwritten notes
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Recently, a new type of neural network called a \"vision transformer\" has been 
 ## Overview
 There is a need for a solution to digitize and securely preserve handwritten notes while retaining data input accuracy. As remote work and online learning become more common, there is an increasing demand for a system that can effectively transform handwritten notes into a searchable, storable, and shareable digital version. The manual process of digitizing handwritten notes. However, this process can be time-consuming and error-prone when done manually.
 
-# Challenges
+## Challenges
 * There are a few big challenges when it comes to teaching a computer to read handwritten text. One of the biggest challenges is creating a big enough dataset of labeled handwritten text to train the machine learning model. If there isn't enough data, then transfer learning might need to be used.
 * Another key challenge is teaching the computer to recognize words that it hasn't been specifically trained on. This is important if the computer is going to be able to read text in different languages. Currently, most of the available datasets are in English, so this is a big challenge. The computer will also only be able to recognize letters and numbers from the Latin alphabet.
 
