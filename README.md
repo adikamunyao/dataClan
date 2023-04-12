@@ -28,7 +28,8 @@ There are a few big challenges when it comes to teaching a computer to read hand
 * One of the biggest challenges is creating a big enough dataset of labeled handwritten text to train the machine learning model. If there isn't enough data, then transfer learning might need to be used.
 * Another key challenge is teaching the computer to recognize words that it hasn't been specifically trained on. This is important if the computer is going to be able to read text in different languages. Currently, most of the available datasets are in English, so this is a big challenge. The computer will also only be able to recognize letters and numbers from the Latin alphabet.
 
-##Background
+## Background
+
 * Handwritten Text Recognition.
 Handwritten text recognition comes in two types: offline and online. We can use offline recognition for handwritten text recognition tasks where we only have access to a static image of the writing. For online recognition, we need a special electronic pen that records the order of the written strokes, so we can use it for tasks that require this level of detail, such as signature verification or handwriting analysis. However, online recognition is less common due to the requirement for specialized equipment.
 
