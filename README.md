@@ -31,12 +31,15 @@ There are a few big challenges when it comes to teaching a computer to read hand
 ## Background
 
 * Handwritten Text Recognition.
+
 Handwritten text recognition comes in two types: offline and online. We can use offline recognition for handwritten text recognition tasks where we only have access to a static image of the writing. For online recognition, we need a special electronic pen that records the order of the written strokes, so we can use it for tasks that require this level of detail, such as signature verification or handwriting analysis. However, online recognition is less common due to the requirement for specialized equipment.
 
 * Neural Networks.
+
 Neural networks extract information from handwriting images. They have an input, hidden, and output layer. Deep learning networks have more than three layers and recognize complex patterns. Each node in a layer is connected to all nodes in the next layer, called a fully connected layer. The value of a node is determined by multiplying the input with the weight, passing through an activation function. During training, our goal is to minimize a loss function.
 
 * Convolutional Neural Networks
+
 A CNN is a neural network for images and audio. It has an input layer, convolutional layers that identify important features, pooling layers that simplify data, and an output layer. Early layers find simple features and later layers find complex shapes to recognize the object in the image. We can use it for image and audio recognition tasks.
 
 
