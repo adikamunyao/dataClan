@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Handwriting is a crucial method of storing knowledge for the future, yet it is easily destroyed or lost. It is critical to save handwritten papers digitally so that they may be quickly found and kept secure. However, because everyone's handwriting is unique, this is a difficult task. This difficulty can be solved with the aid of a penpal.
+Handwriting is a crucial method of storing knowledge for the future, yet it is easily destroyed or lost. It is critical to save handwritten papers digitally so that they may be quickly found and kept secure. However, because everyone's handwriting is unique, this is a difficult task. This difficulty can be solved with the aid of  PenPal.
 Handwritten text recognition (HTR) is a method of using a computer to read and comprehend handwritten words. To do this, the computer must be able to separate words and read them in the correct order. Scientists are continually looking for new and better ways to achieve this, such as employing various neural network combinations.
 A new sort of neural network known as a "vision transformer" has recently been utilized to evaluate photos. They have performed just as well as the greatest neural networks when it comes to picture recognition. The scientists will investigate the use of vision transformers to detect handwritten text in this study.
 
