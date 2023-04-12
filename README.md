@@ -9,6 +9,13 @@ Recently, a new type of neural network called a \"vision transformer\" has been 
 
 ![penpal](https://user-images.githubusercontent.com/22881701/230894592-40b715c8-c01d-4cfa-94f3-b143226d082e.jpg)
 
+## Metric of Success
+
+* Character Error Rate: this is a metric of the performance of an automatic speech recognition (ASR) system. This value indicates the percentage of characters that were incorrectly predicted. The lower the value, the better the performance of the ASR system with a CharErrorRate of 0 being a perfect score.
+* Word Error Rate: this is the ratio of errors in a transcript to the total words spoken. A lower WER in speech-to-text means better accuracy in recognizing speech.
+
+
+
 ## Aims
 * Develop a machine learning model that can recognize different styles of handwriting, so that it can accurately convert handwritten notes into digital format.
 * Create a database to store digitized notes in a secure and organized manner.
