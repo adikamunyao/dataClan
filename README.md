@@ -12,8 +12,9 @@ A new sort of neural network known as a "vision transformer" has recently been u
 
 ## Metric of Success
 
-* Character Error Rate: this is a metric of the performance of an automatic speech recognition (ASR) system. This value indicates the percentage of characters that were incorrectly predicted. The lower the value, the better the performance of the ASR system with a CharErrorRate of 0 being a perfect score.
-* Word Error Rate: this is the ratio of errors in a transcript to the total words spoken. A lower WER in speech-to-text means better accuracy in recognizing speech.
+* Character Error Rate: this is a metric of the performance of an automatic speech recognition (ASR) system. (CER) will be a useful metric to evaluate the performance of our ASR system. It will also help assess the accuracy of the system in converting spoken words to text and identify areas for improvement. By aiming for a lower CER, we can improve the quality of the ASR output and enhance the overall performance of our project.
+
+* Word Error Rate: this is the ratio of errors in a transcript to the total words spoken. Our project involves speech-to-text transcription, the Word Error Rate (WER) will be a useful metric to evaluate the accuracy of the transcription. It provides a ratio of errors in the transcript to the total words spoken, and a lower WER indicates better accuracy in recognizing speech. By monitoring the WER, we can assess the performance of our speech-to-text system, identify areas for improvement, and adjust the system's parameters to reduce errors and improve the quality of the transcription.
 
 
 
@@ -49,8 +50,17 @@ A CNN is a neural network for images and audio. It has an input layer, convoluti
 
 > [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset).
 
+### Data Description
+
+* The EMNIST dataset contains a set of handwritten characters including both upper and lower case alphabets, digits, and special characters. Each character is represented as a grayscale image of size 28x28. The displayed data samples provide a visual representation of what the handwritten characters look like in the dataset. By examining the data samples, we can see that there are variations in handwriting styles, thickness, and slant of the characters. This diversity in handwriting makes the task of character recognition more challenging.
+
+* The IAM forms dataset contains handwritten text from various sources such as letters, faxes, and application forms. The displayed samples show different types of handwritten text with varying styles and layouts. The dataset presents a challenge for handwriting recognition models due to the complexity and variability of the handwritten text.
+
+
 
 ![modeel](https://user-images.githubusercontent.com/22881701/230956464-4e0cff6e-6c4c-42be-8386-064f5a8af79f.png)
+
+## Minimal Viable Product (MVP)
 
 
 ## Recommendations 
