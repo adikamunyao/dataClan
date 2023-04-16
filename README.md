@@ -62,9 +62,21 @@ A CNN is a neural network for images and audio. It has an input layer, convoluti
 
 ## Minimal Viable Product (MVP)
 
-
-## Recommendations 
+![deploy](https://user-images.githubusercontent.com/22881701/232313088-4030a562-fc4f-4da0-b1f4-5b493dc46cec.PNG)
 
 ## Conclusions 
+
+* Learning Rate and Batch Size: Reducing the learning rate and batch size may have helped the model converge more effectively during training, leading to better optimization and improved accuracy.
+* Machine learning models can accurately recognize different styles of handwriting, making them a suitable technology for character recognition in the PenPal system.
+* Increased Number of Epochs and Layers: The addition of more epochs and layers to the model has likely provided more opportunities.
+
+## Recommendations
+
+* Penpal Matching Platform: Develop a web application or mobile app that matches penpals based on their interests, hobbies, or language preferences.
+* Language Exchange Platform: Create a language exchange platform that facilitates language learning through pen paling.
+* Virtual Penpal Experience: Develop a virtual penpal experience that simulates the process of exchanging letters with a pen pal. 
+* Penpal Blogging Platform: Create a blogging platform that allows users to write and share blog posts about their penpal experiences, cultural exchanges, or language learning journey. 
+* Penpal Tracking App: Develop a mobile app that helps users keep track of their penpal relationships, letters exchanged, and milestones reached. 
+
 
 
